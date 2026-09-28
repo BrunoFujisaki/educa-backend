@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Educa.Api/Educa.Api.csproj" />
+  <Project Path="Educa.Application/Educa.Application.csproj" />
+  <Project Path="Educa.Domain/Educa.Domain.csproj" />
+  <Project Path="Educa.Infrastructure/Educa.Infrastructure.csproj" />
+</Solution>

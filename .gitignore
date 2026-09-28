@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compilação e Binários
+bin/
+obj/
+
+# Logs e Arquivos Locais
+*.log
+data/
